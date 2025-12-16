@@ -1,0 +1,16 @@
+D:\All Git Project\RT500Postprocessor\bin\Debug\net8.0-windows\RT500Postprocessor.exe
+D:\All Git Project\RT500Postprocessor\bin\Debug\net8.0-windows\RT500Postprocessor.deps.json
+D:\All Git Project\RT500Postprocessor\bin\Debug\net8.0-windows\RT500Postprocessor.runtimeconfig.json
+D:\All Git Project\RT500Postprocessor\bin\Debug\net8.0-windows\RT500Postprocessor.dll
+D:\All Git Project\RT500Postprocessor\bin\Debug\net8.0-windows\RT500Postprocessor.pdb
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.MainForm.resources
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.csproj.GenerateResource.cache
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.AssemblyInfoInputs.cache
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.AssemblyInfo.cs
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.csproj.CoreCompileInputs.cache
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.dll
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\refint\RT500Postprocessor.dll
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.pdb
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\RT500Postprocessor.genruntimeconfig.cache
+D:\All Git Project\RT500Postprocessor\obj\Debug\net8.0-windows\ref\RT500Postprocessor.dll
